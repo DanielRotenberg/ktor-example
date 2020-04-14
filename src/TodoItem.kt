@@ -35,3 +35,5 @@ val todo2 = TodoItem(
     LocalDate.of(2020, 4, 13),
     Importance.LOW
 )
+
+val todoList = listOf(todo1, todo2)
